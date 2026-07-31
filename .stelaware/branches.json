@@ -13,6 +13,18 @@
       "gitBranch": "origin/main",
       "label": "Origin/main",
       "createdAt": "1785461736"
+    },
+    {
+      "id": "draft-view-from-spree",
+      "gitBranch": "draft/view-from-spree",
+      "label": "View From Spree",
+      "createdAt": "1785463178"
+    },
+    {
+      "id": "origin-draft-view-from-spree",
+      "gitBranch": "origin/draft/view-from-spree",
+      "label": "Origin/draft/view From Spree",
+      "createdAt": "1785463178"
     }
   ]
 }

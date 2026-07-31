@@ -1,19 +1,19 @@
 {
+  "version": 2,
+  "name": "Test Novel 1",
+  "sync": {
+    "enabled": true,
+    "remoteUrl": "https://github.com/wlkalong-source/Test-Novel-1.git",
+    "branch": "main",
+    "repoName": "Test Novel 1",
+    "lastSyncAt": null,
+    "lastCommitSha": null
+  },
   "activity": {
     "documentSaves": {
       "1.md": "1785462925131"
     },
     "lastBackupAt": "1785461736164",
     "lastSavedAt": null
-  },
-  "name": "Test Novel 1",
-  "sync": {
-    "branch": "main",
-    "enabled": true,
-    "lastCommitSha": null,
-    "lastSyncAt": null,
-    "remoteUrl": "https://github.com/wlkalong-source/Test-Novel-1.git",
-    "repoName": "Test Novel 1"
-  },
-  "version": 2
+  }
 }
