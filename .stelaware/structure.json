@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "order": {
+    "": [
+      "Manuscript",
+      "Characters",
+      "Locations",
+      "Research",
+      "Musings",
+      "Front Matter",
+      "Images",
+      "Trash"
+    ]
+  }
+}

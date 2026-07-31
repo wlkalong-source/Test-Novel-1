@@ -1,0 +1,6 @@
+.stelaware/cache/
+.stelaware/backups/
+.DS_Store
+Thumbs.db
+desktop.ini
+.dropbox
