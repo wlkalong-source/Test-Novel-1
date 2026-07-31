@@ -1,14 +1,14 @@
 {
   "activity": {
     "documentSaves": {
-      "1.md": "1785462925131"
+      "1.md": "1785463141434"
     },
     "lastBackupAt": "1785461736164",
     "lastSavedAt": null
   },
   "name": "Test Novel 1",
   "sync": {
-    "branch": "main",
+    "branch": "draft/view-from-spree",
     "enabled": true,
     "lastCommitSha": null,
     "lastSyncAt": null,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "activeBranchId": "main",
+  "activeBranchId": "draft-view-from-spree",
   "branches": [
     {
       "id": "main",
@@ -13,6 +13,19 @@
       "gitBranch": "origin/main",
       "label": "Origin/main",
       "createdAt": "1785461736"
+    },
+    {
+      "id": "draft-view-from-spree",
+      "gitBranch": "draft/view-from-spree",
+      "label": "View from Spree",
+      "createdAt": "1785463140",
+      "branchedFrom": "main"
+    },
+    {
+      "id": "origin-draft-view-from-spree",
+      "gitBranch": "origin/draft/view-from-spree",
+      "label": "Origin/draft/view From Spree",
+      "createdAt": "1785463141"
     }
   ]
 }
