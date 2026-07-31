@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "activeBranchId": "main",
+  "branches": [
+    {
+      "id": "main",
+      "gitBranch": "main",
+      "label": "Main storyline",
+      "createdAt": "1785461736"
+    },
+    {
+      "id": "origin-main",
+      "gitBranch": "origin/main",
+      "label": "Origin/main",
+      "createdAt": "1785461736"
+    }
+  ]
+}

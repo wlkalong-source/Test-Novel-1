@@ -2,14 +2,15 @@
   "version": 1,
   "order": {
     "": [
-      "Manuscript",
       "Characters",
+      "Manuscript",
       "Locations",
       "Research",
       "Musings",
       "Front Matter",
       "Images",
-      "Trash"
+      "Trash",
+      "1.md"
     ]
   }
 }
