@@ -1,5 +1,17 @@
 {
-  "version": 2,
+  "activity": {
+    "documentSaves": {},
+    "lastBackupAt": "1785461736164",
+    "lastSavedAt": null
+  },
   "name": "Test Novel 1",
-  "sync": null
+  "sync": {
+    "branch": "main",
+    "enabled": true,
+    "lastCommitSha": null,
+    "lastSyncAt": null,
+    "remoteUrl": "https://github.com/wlkalong-source/Test-Novel-1.git",
+    "repoName": "Test Novel 1"
+  },
+  "version": 2
 }
